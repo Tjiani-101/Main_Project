@@ -1,0 +1,9 @@
+Buat sebuah program Python yang dapat menghitung gaji karyawan berdasarkan jam kerja. Program harus memenuhi kondisi berikut:
+Syarat dan Kondisi:
+
+    Program harus meminta input berupa jumlah karyawan.
+    Untuk setiap karyawan, program meminta nama, jumlah jam kerja, dan gaji per jam.
+    Jika jumlah jam kerja lebih dari 40 jam, maka hitung lembur dengan aturan:
+        Gaji lembur adalah 1.5 kali gaji per jam untuk setiap jam di atas 40 jam.
+    Program harus menghitung total gaji karyawan dengan menggabungkan gaji reguler dan gaji lembur (jika ada).
+    Setelah itu, program menampilkan nama karyawan dan total gaji mereka.
