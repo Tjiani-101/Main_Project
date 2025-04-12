@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰️ I’m currently working on Minex Production<br>🤝 I’m looking to collaborate With Minex Center<br>💬 Ask me about anything<br>⚡ Fun fact :<br>      - im affraid of girls
+🛰️ I’m currently working at Home <br>💸 i need money <br>💬 Ask me about anything<br>⚡ Fun fact :<br>      - im affraid of girls
 
 
 ## 🌐 Socials:
